@@ -1,0 +1,114 @@
+@media(max-width:1150px) {
+    .colse {
+        display: block !important;
+    }
+
+    .nav {
+        display: none !important;
+    }
+
+    .service {
+        padding: 100px 0;
+    }
+
+    .service .text-area1 {
+        max-width: 90%;
+        margin: auto;
+    }
+
+    .main .container {
+        width: 94%;
+        margin: 24px 3%;
+    }
+
+    .grid_row {
+        width: 100%;
+        margin: 0;
+    }
+
+    .header_area {
+        width: 700px;
+    }
+
+    .text-area {
+        width: 750px;
+    }
+
+
+
+}
+
+@media(max-width:1024px) {
+    .process .container {
+        width: 80% !important;
+        margin: 25px auto !important;
+
+    }
+
+    .process .grid {
+        width: 100% !important;
+
+
+    }
+    .ex_container{
+        width: 1000px;}
+        .b_bor{
+            margin-left: 100px;
+        }
+}
+
+@media(max-width:768px) {
+    .box1 {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .box2 {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .main .container {
+        width: 100%;
+    }
+
+    .grid_row .grid {
+        width: 90%;
+        margin: 10px 5%;
+    }
+
+    .grid_row {
+        width: 98%;
+        margin: 0 !important;
+    }
+
+    .header_area {
+        padding: 0px;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .text-area {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .ex_container{
+        width: 650px;}
+        .b_bor{
+            margin-left: 64px;
+        }
+
+}
+
+@media(max-width:426px) {
+    .ex_container{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .ex_card{
+        width: 99.99%;
+    }
+    .b_bor{
+        margin-left: 164px;
+    }
+    }
